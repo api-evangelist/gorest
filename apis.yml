@@ -1,0 +1,32 @@
+aid: gorest
+name: Gorest
+description: "Online REST API for Testing and Prototyping"
+url: https://gorest.co.in/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Gorest
+    description: "Online REST API for Testing and Prototyping"
+    humanURL: https://gorest.co.in/
+    baseURL: https://gorest.co.in/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://gorest.co.in/
+common:
+  - type: Website
+    url: https://gorest.co.in/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
