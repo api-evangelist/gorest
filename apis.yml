@@ -39,7 +39,6 @@ apis:
   - name: Gorest
     description: "Online REST API for Testing and Prototyping"
     humanURL: https://gorest.co.in/
-    baseURL: https://gorest.co.in/
     tags:
       - Development
     properties:
